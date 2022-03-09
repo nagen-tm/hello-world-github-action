@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-github-action",
+  "version": "1.0.0",
+  "description": "Simple Action that should write out a greeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagengtm/hello-world-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagengtm/hello-world-github-action/issues"
+  },
+  "homepage": "https://github.com/nagengtm/hello-world-github-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
